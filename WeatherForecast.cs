@@ -1,4 +1,4 @@
-namespace OpenAIApp;
+namespace DotNETwithGPT;
 
 public class WeatherForecast
 {
