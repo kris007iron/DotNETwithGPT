@@ -52,6 +52,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 If you have any questions or suggestions regarding DotNETwithGPT, please feel free to reach out:
 
 - Name: Krzysztof
-- GitHub: [Your GitHub Profile](github.com/kris007iron)
+- GitHub: [My GitHub Profile](github.com/kris007iron)
 
 Thank you for your interest in DotNETwithGPT!
