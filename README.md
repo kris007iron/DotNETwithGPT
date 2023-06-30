@@ -12,7 +12,7 @@ To get started with DotNETwithGPT, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the solution file (`DotNETwithGPT.sln`) in your preferred IDE.
-3. Set up your OpenAI API credentials by providing your API key in the `OpenAIService.cs` file.
+3. Set up your OpenAI API credentials by providing your API key in the `OpenAI.cs` file.
 4. Build and run the project to execute the provided example code.
 
 ## Example Usage
